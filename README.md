@@ -28,7 +28,5 @@ Feel free to explore and modify the code to suit your needs. Happy reading!
 
 ---
 
-Feel free to customize the description further based on additional features or details you want to highlight.
-
 ![Logo](https://jishuroy.in/wp-content/uploads/2023/08/cropped-Mr.jishu-roy_LOGO-1.png)
 
